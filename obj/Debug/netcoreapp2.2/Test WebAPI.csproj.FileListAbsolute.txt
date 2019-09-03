@@ -1,0 +1,17 @@
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Test WebAPI.deps.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Test WebAPI.runtimeconfig.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Test WebAPI.runtimeconfig.dev.json
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Test WebAPI.dll
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.csprojAssemblyReference.cache
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.RazorAssemblyInfo.cache
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.RazorAssemblyInfo.cs
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.AssemblyInfoInputs.cache
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.AssemblyInfo.cs
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\bin\Debug\netcoreapp2.2\Test WebAPI.pdb
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.dll
+C:\Users\CodeHqPro.com\source\repos\Test WebAPI\Test WebAPI\obj\Debug\netcoreapp2.2\Test WebAPI.pdb
